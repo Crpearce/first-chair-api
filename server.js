@@ -52,6 +52,7 @@ app.locals.resorts = [
       overview:
         "Aspen Highlands is part of an expansive winter playground with four unique neighbouring mountains (Aspen, Aspen Highlands, Snowmass and Butternut) with 5,527 total acres of terrain. Aspen Highlands is the less known mountain, popular with locals for the lack of crowds and hiking up to the Highland Bowl.",
       region: "Aspen/Snowmass",
+      logo:"https://www.coloradoski.com/sites/default/files/inline-images/14_ASC_ASPENHIGHLANDS_Stacked_Black.png",
       verticle: 3635,
       summit: 11675,
       snowfall: 300,

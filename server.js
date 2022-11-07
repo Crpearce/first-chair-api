@@ -185,7 +185,7 @@ app.locals.resorts = [
       live_Cam:
         "https://www.coloradowebcam.net/camera/echo-mountain-ski-webcam-colorado-ski-resort-webcams",
       hours: 1,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 10,
@@ -224,7 +224,7 @@ app.locals.resorts = [
       lifttix: "https://steamboatsprings.net/298/Lift-Tickets",
       live_Cam: "https://www.steamboatsprings.net/783/360-Ski-Jump-Video",
       hours: 4,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 12,
@@ -243,7 +243,7 @@ app.locals.resorts = [
       lifttix: "https://www.skikendall.com/lift-tickets-passes",
       live_Cam: "https://keno.org/colorado_web_cams/silverton_cams.htm",
       hours: 7,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 13,
@@ -282,7 +282,7 @@ app.locals.resorts = [
       lifttix: "https://skiloveland.com/lift-tickets/",
       live_Cam: "https://skiloveland.com/web-cams/",
       hours: 1,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 15,
@@ -301,7 +301,7 @@ app.locals.resorts = [
       lifttix: "https://skimonarch.com/tickets/",
       live_Cam: "https://www.onthesnow.com/colorado/monarch-mountain/webcams",
       hours: 3,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 16,
@@ -319,7 +319,7 @@ app.locals.resorts = [
       lifttix: "https://www.powderhorn.com/index.php/plan-purchase/purchase/lift-tickets",
       live_Cam: "https://www.powderhorn.com/explore/conditions/webcams.html",
       hours: 4,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 17,
@@ -337,7 +337,7 @@ app.locals.resorts = [
       lifttix: "https://www.purgatory.ski/mountain/lift-tickets/",
       live_Cam: "https://www.purgatory.ski/mountain/weather-conditions-webcams/webcams/",
       hours: 7,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 18,
@@ -355,7 +355,7 @@ app.locals.resorts = [
       lifttix: "https://silvertonmountain.com/shop/lift-tickets/",
       live_Cam: "https://silvertonmountain.com/mountain/snow-report/",
       hours: 7,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 19,
@@ -374,7 +374,7 @@ app.locals.resorts = [
       lifttix: "https://www.silvertonpowdercats.com/schedule",
       live_Cam: "https://silvertonmountain.com/mountain/snow-report/",
       hours: 7,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 20,
@@ -392,7 +392,7 @@ app.locals.resorts = [
       lifttix: "https://www.skicooper.com/cooper-day-pass/",
       live_Cam: "https://www.skicooper.com/weather-webcams/",
       hours: 2,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 21,
@@ -410,7 +410,7 @@ app.locals.resorts = [
       lifttix:"https://granbyranch.com/tickets-passes/",
       live_Cam: "https://granbyranch.com/mountain-info/",
       hours: 2,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 22,
@@ -428,7 +428,7 @@ app.locals.resorts = [
       lifttix: "https://www.ski-hesperus.com/lift-tickets/",
       live_Cam: "https://www.ski-hesperus.com/mountain-cam/",
       hours: 8,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 23,
@@ -482,7 +482,7 @@ app.locals.resorts = [
       lifttix: "https://www.steamboatpowdercats.com/reserve/",
       live_Cam: "https://www.steamboat.com/the-mountain/live-cam",
       hours: 4,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 26,
@@ -500,7 +500,7 @@ app.locals.resorts = [
       lifttix: "https://sunlightmtn.com/?keyword=LiftTickets",
       live_Cam: "https://sunlightmtn.com/the-mountain/live-cams/snow-cam",
       hours: 3,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     },
     {
       id: 27,
@@ -572,7 +572,7 @@ app.locals.resorts = [
       lifttix:"https://wolfcreekski.com/tickets-passes/",
       live_Cam: "https://wolfcreekski.com/wolf-creek-ski-area-live-web-cam/",
       hours: 6,
-      pass: "https://cdn.simplystamps.com/media/catalog/product/5/8/5802-n-a-stock-stamp-hcb.png"
+      pass: ''
     }
   ]
 

@@ -40,7 +40,7 @@ app.locals.resorts = [
       snowfall: 300,
       trails: 76,
       acres: 675,
-      ski_Map: "https://cdn.ski/QtK48fotJauPfoyW.jpeg",
+      ski_Map: "https://skimap.org/data/1031/3535/1574790552jpg_render.jpg",
       lifttix:
         "https://shop.aspensnowmass.com/s/all-lift-tickets/c/lift-tickets-3",
       live_Cam:

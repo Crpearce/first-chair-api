@@ -529,7 +529,7 @@ app.locals.resorts = [
       closest_Town: "Vail, Colorado",
       verticle: 3450,
       summit: 11570,
-      snowfall: 11570,
+      snowfall: 310,
       trails: 195,
       acres: 5317,
       ski_Map: "https://www.skicentral.com/images/trailmaps/303023-2400.jpg",

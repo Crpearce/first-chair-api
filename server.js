@@ -71,7 +71,7 @@ app.locals.resorts = [
     {
       id: 4,
       name: "Beaver Creek",
-      overview: `Colorado's youngest resort easily accessible from Denver. The resort is comprised of three villages, the main Beaver Creek Village, Bachelor Gulch, and Arrowhead. The towns of Avon and Edwards are located minutes from the resort and offer many lodging and dining options. The mountain hosts world class competitions`,
+      overview: `Colorado's youngest resort is easily accessible from Denver. The resort is comprised of three villages, the main Beaver Creek Village, Bachelor Gulch, and Arrowhead. The towns of Avon and Edwards are located minutes from the resort and offer many lodging and dining options. The mountain hosts world class competitions`,
       region: "Eagle County",
       logo: 'https://logos-download.com/wp-content/uploads/2019/01/Beaver_Creek_Logo.png',
       closest_Town: "Avon, Colorado",

@@ -40,8 +40,7 @@ app.locals.resorts = [
       snowfall: 300,
       trails: 76,
       acres: 675,
-      ski_Map: "https://skimap.org/data/1031/3535/1574790552jpg_render.jpg",
-      lifttix:
+      ski_Map: "https://www.aspensnowmass.com/-/media/aspen-snowmass/images/image-cta-with-title-and-description/image-cta-card-wide/winter/2021-22/snowmass-winter-trail-map-image-cta-wide-07272021.jpg?mw=1600&mh=488&hash=C03FFB2A390F6B4DE611E3FDF361B770"
         "https://shop.aspensnowmass.com/s/all-lift-tickets/c/lift-tickets-3",
       live_Cam:
         "https://www.aspensnowmass.com/four-mountains/aspen-mountain/mountain-cams",

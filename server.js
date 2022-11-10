@@ -291,7 +291,7 @@ app.locals.resorts = [
       closest_Town: "Georgetown, Colorado",
       verticle: 2210,
       summit: 13010,
-      snowfall: 400,
+      snowfall: 305,
       trails: 93,
       acres: 1570,
       ski_Map: "https://www.skicentral.com/images/trailmaps/303015-2400.jpg",

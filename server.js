@@ -26,7 +26,8 @@ app.locals.resorts = [
         "https://store.arapahoebasin.com/s/lift-tickets/c/full-day-lift-tickets",
       live_Cam: "https://www.arapahoebasin.com/the-mountain/webcams/",
       hours: 1,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 2,
@@ -46,7 +47,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.aspensnowmass.com/four-mountains/aspen-mountain/mountain-cams",
       hours: 4,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 3,
@@ -66,7 +68,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.aspensnowmass.com/four-mountains/aspen-highlands/mountain-cams",
       hours: 4,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 4,
@@ -86,7 +89,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.beavercreek.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png"
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic'
     },
     {
       id: 5,
@@ -106,7 +110,8 @@ app.locals.resorts = [
       live_Cam:
         "https://gobreck.com/experience-breckenridge/breckenridge-web-cams",
       hours: 2,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png"
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic'
     },
     {
       id: 6,
@@ -127,7 +132,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.aspensnowmass.com/four-mountains/buttermilk/mountain-cams",
       hours: 4,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 7,
@@ -146,7 +152,8 @@ app.locals.resorts = [
         "https://www.coppercolorado.com/plan-your-trip/lift-tickets/tickets?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH7afRTTvYXlK2LSm7ThuYxA0PSClRALdS8ZJ_4QsG8_WDU4hjIYBTgaAno7EALw_wcB&gclsrc=aw.ds",
       live_Cam: "https://www.coppercolorado.com/the-mountain/webcams/mountain",
       hours: 2,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 8,
@@ -165,7 +172,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.https://www.skicb.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png" 
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic' 
     },
     {
       id: 9,
@@ -185,7 +193,8 @@ app.locals.resorts = [
       live_Cam:
         "https://www.coloradowebcam.net/camera/echo-mountain-ski-webcam-colorado-ski-resort-webcams",
       hours: 1,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 10,
@@ -205,7 +214,8 @@ app.locals.resorts = [
         "https://www.eldora.com/plan-your-trip/tickets-passes/lift-tickets-passes/alpine-lift-tickets",
       live_Cam: "https://www.eldora.com/the-mountain/webcams/snow-stake-cam",
       hours: 1,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 11,
@@ -224,7 +234,8 @@ app.locals.resorts = [
       lifttix: "https://steamboatsprings.net/298/Lift-Tickets",
       live_Cam: "https://www.steamboatsprings.net/783/360-Ski-Jump-Video",
       hours: 4,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 12,
@@ -243,7 +254,8 @@ app.locals.resorts = [
       lifttix: "https://www.skikendall.com/lift-tickets-passes",
       live_Cam: "https://keno.org/colorado_web_cams/silverton_cams.htm",
       hours: 7,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 13,
@@ -263,7 +275,8 @@ app.locals.resorts = [
         "https://www.keystoneresort.com/Plan-Your-Trip/Lift-Access/tickets",
       live_Cam: "https://www.keystoneresort.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 2,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png"
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic'
     },
     {
       id: 14,
@@ -282,7 +295,8 @@ app.locals.resorts = [
       lifttix: "https://skiloveland.com/lift-tickets/",
       live_Cam: "https://skiloveland.com/web-cams/",
       hours: 1,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 15,
@@ -301,7 +315,8 @@ app.locals.resorts = [
       lifttix: "https://skimonarch.com/tickets/",
       live_Cam: "https://www.onthesnow.com/colorado/monarch-mountain/webcams",
       hours: 3,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 16,
@@ -319,7 +334,8 @@ app.locals.resorts = [
       lifttix: "https://www.powderhorn.com/index.php/plan-purchase/purchase/lift-tickets",
       live_Cam: "https://www.powderhorn.com/explore/conditions/webcams.html",
       hours: 4,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 17,
@@ -337,7 +353,8 @@ app.locals.resorts = [
       lifttix: "https://www.purgatory.ski/mountain/lift-tickets/",
       live_Cam: "https://www.purgatory.ski/mountain/weather-conditions-webcams/webcams/",
       hours: 7,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 18,
@@ -355,7 +372,8 @@ app.locals.resorts = [
       lifttix: "https://silvertonmountain.com/shop/lift-tickets/",
       live_Cam: "https://silvertonmountain.com/mountain/snow-report/",
       hours: 7,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 19,
@@ -374,7 +392,8 @@ app.locals.resorts = [
       lifttix: "https://www.silvertonpowdercats.com/schedule",
       live_Cam: "https://silvertonmountain.com/mountain/snow-report/",
       hours: 7,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 20,
@@ -392,7 +411,8 @@ app.locals.resorts = [
       lifttix: "https://www.skicooper.com/cooper-day-pass/",
       live_Cam: "https://www.skicooper.com/weather-webcams/",
       hours: 2,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 21,
@@ -410,7 +430,8 @@ app.locals.resorts = [
       lifttix:"https://granbyranch.com/tickets-passes/",
       live_Cam: "https://granbyranch.com/mountain-info/",
       hours: 2,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 22,
@@ -428,7 +449,8 @@ app.locals.resorts = [
       lifttix: "https://www.ski-hesperus.com/lift-tickets/",
       live_Cam: "https://www.ski-hesperus.com/mountain-cam/",
       hours: 8,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 23,
@@ -446,7 +468,8 @@ app.locals.resorts = [
       lifttix: "https://shop.aspensnowmass.com/s/all-lift-tickets/c/lift-tickets-3",
       live_Cam: "https://www.aspensnowmass.com/four-mountains/mountain-cams",
       hours: 4,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 24,
@@ -464,7 +487,8 @@ app.locals.resorts = [
       lifttix: "https://activities.steamboat.com/Ecomm/Shop/Calendar/5371193/en-US/?productcategoryid=117&startmonth=12&startYear=2022&agecategory=8&days=1",
       live_Cam: "https://www.steamboat.com/the-mountain/live-cams",
       hours: 4,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 25,
@@ -482,7 +506,8 @@ app.locals.resorts = [
       lifttix: "https://www.steamboatpowdercats.com/reserve/",
       live_Cam: "https://www.steamboat.com/the-mountain/live-cam",
       hours: 4,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 26,
@@ -500,7 +525,8 @@ app.locals.resorts = [
       lifttix: "https://sunlightmtn.com/?keyword=LiftTickets",
       live_Cam: "https://sunlightmtn.com/the-mountain/live-cams/snow-cam",
       hours: 3,
-      pass: ''
+      pass: '',
+      type: ''
     },
     {
       id: 27,
@@ -518,7 +544,8 @@ app.locals.resorts = [
       lifttix: "https://tellurideskiresort.com/ski/",
       live_Cam: "https://tellurideskiresort.com/webcams/",
       hours: 7,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png"
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic'
     },
     {
       id: 28,
@@ -536,7 +563,8 @@ app.locals.resorts = [
       lifttix: "https://www.vail.com/",
       live_Cam: "https://www.vail.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
-      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png"
+      pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
+      type: 'epic'
     },
     {
       id: 29,
@@ -554,7 +582,8 @@ app.locals.resorts = [
       lifttix:"https://www.winterparkresort.com/plan-your-trip/deals-and-packages/flex-lift-tickets#filters=start-date:2022-11-9",
       live_Cam: "https://www.winterparkresort.com/the-mountain/mountain-cams",
       hours: 2,
-      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png"
+      pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+      type: 'ikon'
     },
     {
       id: 30,
@@ -572,7 +601,8 @@ app.locals.resorts = [
       lifttix:"https://wolfcreekski.com/tickets-passes/",
       live_Cam: "https://wolfcreekski.com/wolf-creek-ski-area-live-web-cam/",
       hours: 6,
-      pass: ''
+      pass: '',
+      type: ''
     }
   ]
 

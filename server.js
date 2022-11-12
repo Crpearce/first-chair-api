@@ -537,7 +537,7 @@ app.locals.resorts = [
       overview: "Telluride Ski Resort is a world-class ski resort and summer vacation resort located in the San Juan Mountains in Telluride, Colorado. Getting to Telluride is easy with non-stop flights from 8 U. S. cities. From refined groomed runs to challenging moguls, there truly is something for everyone.",
       region: "San Miguel County",
       logo: 'http://ams.allmountainsigns.com/wp-content/uploads/2020/08/logo-telluride.png',
-      closest_Town: "Telluride, CO",
+      closest_Town: "Telluride, Colorado",
       verticle: 3845,
       summit: 12570,
       snowfall: 309,

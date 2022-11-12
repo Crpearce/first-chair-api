@@ -28,8 +28,7 @@ app.locals.resorts = [
       live_Cam: "https://www.arapahoebasin.com/the-mountain/webcams/",
       hours: 1,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Georgetown'
+      type: 'ikon'
     },
     {
       id: 2,
@@ -51,8 +50,7 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/aspen-mountain/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Aspen'
+      type: 'ikon'
     },
     {
       id: 3,
@@ -74,8 +72,7 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/aspen-highlands/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Aspen'
+      type: 'ikon'
     },
     {
       id: 4,
@@ -96,8 +93,7 @@ app.locals.resorts = [
         "https://www.beavercreek.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic',
-      first: 'Avon'
+      type: 'epic'
     },
     {
       id: 5,
@@ -118,8 +114,7 @@ app.locals.resorts = [
         "https://gobreck.com/experience-breckenridge/breckenridge-web-cams",
       hours: 2,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic',
-      first: 'Breckenridge'
+      type: 'epic'
     },
     {
       id: 6,
@@ -141,8 +136,7 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/buttermilk/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Aspen'
+      type: 'ikon'
     },
     {
       id: 7,
@@ -162,8 +156,7 @@ app.locals.resorts = [
       live_Cam: "https://www.coppercolorado.com/the-mountain/webcams/mountain",
       hours: 2,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Frisco'
+      type: 'ikon'
     },
     {
       id: 8,
@@ -183,8 +176,7 @@ app.locals.resorts = [
         "https://www.https://www.skicb.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic',
-      first: 'Crested Butte' 
+      type: 'epic'
     },
     {
       id: 9,
@@ -205,8 +197,7 @@ app.locals.resorts = [
         "https://www.coloradowebcam.net/camera/echo-mountain-ski-webcam-colorado-ski-resort-webcams",
       hours: 1,
       pass: '',
-      type: '',
-      first: 'Idaho Springs'
+      type: ''
     },
     {
       id: 10,
@@ -227,8 +218,7 @@ app.locals.resorts = [
       live_Cam: "https://www.eldora.com/the-mountain/webcams/snow-stake-cam",
       hours: 1,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon',
-      first: 'Nederland'
+      type: 'ikon'
     },
     {
       id: 11,
@@ -619,10 +609,157 @@ app.locals.resorts = [
     }
   ]
 
+  app.locals.runs = [
+    {
+      id: 1,
+      name: 'Arapahoe Basin',
+      runName: 'Pallavicini',
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 2,
+      name: 'Aspen Highlands',
+      runName: 'Highlands Bowl',
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 3,
+      name: 'Aspen Mountain',
+      runName: `Walsh's`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 4,
+      name: 'Beaver Creek Resort',
+      runName: `Gold Dust`,
+      difficulty:'Blue'
+    },
+    {
+      id: 5,
+      name: 'Breckenridge Ski Resort',
+      runName: `Whale's Tail`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 6,
+      name: 'Breckenridge Ski Resort',
+      runName: `Lake Chutes`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 7,
+      name: 'Buttermilk',
+      runName: `Klaus' Parkway`,
+      difficulty:'Black Diamond'
+    },
+    {
+      id: 8,
+      name: 'Copper Mountain',
+      runName: `Andy's Encore`,
+      difficulty:'Blue'
+    },
+    {
+      id: 9,
+      name: 'Crested Butte',
+      runName: `Spellbound Bowl`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 10,
+      name: 'Eldora',
+      runName: `Moose Glades`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 11,
+      name: 'Keystone',
+      runName: `Bushwacker`,
+      difficulty:'Black Diamond'
+    },
+    {
+      id: 12,
+      name: 'Loveland',
+      runName: `Chet's Run`,
+      difficulty:'Blue'
+    },
+    {
+      id: 13,
+      name: 'Monarch',
+      runName: `Turbo`,
+      difficulty:'Blue'
+    },
+    {
+      id: 14,
+      name: 'Powderhorn',
+      runName: `Bill's Run`,
+      difficulty:'Blue'
+    },
+    {
+      id: 15,
+      name: 'Purgatory',
+      runName: `Styx`,
+      difficulty:'Black Diamond'
+    },
+    {
+      id: 16,
+      name: 'Silverton',
+      runName: `Cabin`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 17,
+      name: 'Ski Cooper',
+      runName: `Trails End`,
+      difficulty:'Blue'
+    },
+    {
+      id: 18,
+      name: 'Snowmass',
+      runName: `Long Shot`,
+      difficulty:'Blue'
+    },
+    {
+      id: 19,
+      name: 'Steamboat',
+      runName: `White Out`,
+      difficulty:'Black'
+    },
+    {
+      id: 20,
+      name: 'Telluride',
+      runName: `See Forever`,
+      difficulty:'Blue'
+    },
+    {
+      id: 21,
+      name: 'Vail',
+      runName: `Inner Mongolia Bowl`,
+      difficulty:'Black Diamond'
+    },
+    {
+      id: 22,
+      name: 'Winter Park',
+      runName: `The Cirque`,
+      difficulty:'Double Black Diamond'
+    },
+    {
+      id: 23,
+      name: 'Wolf Creek',
+      runName: `Alberta Peak`,
+      difficulty:'Double Black Diamond'
+    }
+  ]
+
 app.get("/api/v1/resorts", (request, response) => {
   const resorts = app.locals.resorts;
 
   response.json({ resorts });
+});
+
+app.get("/api/v1/runs", (request, response) => {
+  const runs = app.locals.runs;
+
+  response.json({ runs });
 });
 
 app.listen(app.get("port"), () => {

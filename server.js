@@ -28,7 +28,8 @@ app.locals.resorts = [
       live_Cam: "https://www.arapahoebasin.com/the-mountain/webcams/",
       hours: 1,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Georgetown'
     },
     {
       id: 2,
@@ -50,7 +51,8 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/aspen-mountain/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Aspen'
     },
     {
       id: 3,
@@ -72,7 +74,8 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/aspen-highlands/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Aspen'
     },
     {
       id: 4,
@@ -93,7 +96,8 @@ app.locals.resorts = [
         "https://www.beavercreek.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic'
+      type: 'epic',
+      first: 'Avon'
     },
     {
       id: 5,
@@ -114,7 +118,8 @@ app.locals.resorts = [
         "https://gobreck.com/experience-breckenridge/breckenridge-web-cams",
       hours: 2,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic'
+      type: 'epic',
+      first: 'Breckenridge'
     },
     {
       id: 6,
@@ -136,7 +141,8 @@ app.locals.resorts = [
         "https://www.aspensnowmass.com/four-mountains/buttermilk/mountain-cams",
       hours: 4,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Aspen'
     },
     {
       id: 7,
@@ -156,7 +162,8 @@ app.locals.resorts = [
       live_Cam: "https://www.coppercolorado.com/the-mountain/webcams/mountain",
       hours: 2,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Frisco'
     },
     {
       id: 8,
@@ -176,7 +183,8 @@ app.locals.resorts = [
         "https://www.https://www.skicb.com/the-mountain/mountain-conditions/mountain-cams.aspx",
       hours: 3,
       pass: "https://static.wixstatic.com/media/6c47ef_526275ae9eae4a64bd748509405010bd~mv2.png/v1/crop/x_98,y_33,w_398,h_167/fill/w_318,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Epic%20Pass%20Logo.png",
-      type: 'epic' 
+      type: 'epic',
+      first: 'Crested Butte' 
     },
     {
       id: 9,
@@ -197,7 +205,8 @@ app.locals.resorts = [
         "https://www.coloradowebcam.net/camera/echo-mountain-ski-webcam-colorado-ski-resort-webcams",
       hours: 1,
       pass: '',
-      type: ''
+      type: '',
+      first: 'Idaho Springs'
     },
     {
       id: 10,
@@ -218,7 +227,8 @@ app.locals.resorts = [
       live_Cam: "https://www.eldora.com/the-mountain/webcams/snow-stake-cam",
       hours: 1,
       pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
-      type: 'ikon'
+      type: 'ikon',
+      first: 'Nederland'
     },
     {
       id: 11,

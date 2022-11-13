@@ -4,6 +4,8 @@ const cors = require('cors');
 
 app.use(cors());
 
+app.use(express.json());
+
 app.set("port", process.env.PORT || 3001);
 
 app.locals.title = 'FirstChair';
@@ -761,6 +763,24 @@ app.get("/api/v1/runs", (request, response) => {
 
   response.json({ runs });
 });
+
+
+  app.post('/api/v1/runs', (request, response) => {
+    const { name, runName, difficulty} = request.body;
+  
+    if (!name || !runName || !difficulty ) {
+      return response.status(422).json({
+        error: 'Expected format { name: <String>, date: <String>, time: <String>, number: <Number> }. You are missing a required parameter.'
+      })
+    }
+  
+    const newRun = {id: Date.now(), name, runName, difficulty };
+  
+    app.locals.runs = [...app.locals.runs, newRun];
+  
+    return response.status(201).json(newRun);
+  });
+  
 
 app.listen(app.get("port"), () => {
   console.log(

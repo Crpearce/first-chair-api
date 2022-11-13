@@ -780,7 +780,14 @@ app.get("/api/v1/runs", (request, response) => {
   
     return response.status(201).json(newRun);
   });
-  
+
+  app.delete('/api/v1/runs/:id', (request, response) => {
+    const id = parseInt(request.params.id)
+    const filteredRuns = app.locals.runs.filter(run => run.id !== id)
+    app.locals.runs = filteredRuns
+
+    response.status(200).json(app.locals.runs)
+})
 
 app.listen(app.get("port"), () => {
   console.log(

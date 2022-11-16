@@ -577,7 +577,7 @@ app.locals.resorts = [
     id: 28,
     name: "Vail",
     overview:
-      "Vail is one of North America's top ski resort destination with 5317 acres of skiable terrain. Features seven bowls, and gladed terrain in the new Blue Sky Basin area along with more groomed terrain than any other resort. Located about 100 miles west of Denver.",
+      "Vail is one of North America's top ski resort destination with 5317 acres of skiable terrain. It features seven bowls, and gladed terrain in the new Blue Sky Basin area along with more groomed terrain than any other resort. Located about 100 miles west of Denver.",
     region: "Eagle County",
     logo: "http://ams.allmountainsigns.com/wp-content/uploads/2020/08/logo-vail.png",
     closest_Town: "Vail, Colorado",

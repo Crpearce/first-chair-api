@@ -38,7 +38,7 @@ app.locals.resorts = [
     overview:
       "Aspen is part of an expansive winter playground with four unique neighbouring mountains (Aspen, Aspen Highlands, Snowmass and Butternut) with 5,527 total acres of terrain. Aspen Mountain has been the place to go since 1947 for ski holidays in Colorado.",
     region: "Pitkin County",
-    logo: "https://www.coloradoski.com/sites/default/files/inline-images/14_ASC_ASPENMOUNTAIN_Stacked_Black.png",
+    logo: "https://www.lucyleatucker.net/wp-content/uploads/2018/02/ASC-e1524529473526.png",
     closest_Town: "Aspen, Colorado",
     verticle: 3267,
     summit: 11212,
@@ -60,7 +60,7 @@ app.locals.resorts = [
     overview:
       "Aspen Highlands is part of an expansive winter playground with four unique neighbouring mountains (Aspen, Aspen Highlands, Snowmass and Butternut) with 5,527 total acres of terrain. Aspen Highlands is the less known mountain, popular with locals for the lack of crowds and hiking up to the Highland Bowl.",
     region: "Pitkin County",
-    logo: "https://www.coloradoski.com/sites/default/files/inline-images/14_ASC_ASPENHIGHLANDS_Stacked_Black.png",
+    logo: "https://www.lucyleatucker.net/wp-content/uploads/2018/02/ASC-e1524529473526.png",
     closest_Town: "Aspen, Colorado",
     verticle: 3635,
     summit: 11675,
@@ -125,7 +125,7 @@ app.locals.resorts = [
     overview:
       "Buttermilk is part of an expansive winter playground with four unique neighbouring mountains (Aspen, Aspen Highlands, Snowmass and Butternut) with 5,527 total acres of terrain. Buttermilk is the smallest of the 4. Terrain parks, pipes and pristine trails add up to the Buttermilk experience. Best known as home to the Winter X Games Buttermilk has something to offer all levels of experience.",
     region: "Pitkin County",
-    logo: "https://www.coloradoski.com/sites/default/files/inline-images/14_ASC_BUTTERMILK_Black.png",
+    logo: "https://www.lucyleatucker.net/wp-content/uploads/2018/02/ASC-e1524529473526.png",
     closest_Town: "Aspen, Colorado",
     verticle: 2030,
     summit: 9900,

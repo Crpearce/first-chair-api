@@ -51,7 +51,7 @@ app.locals.resorts = [
     live_Cam:
       "https://www.aspensnowmass.com/four-mountains/aspen-mountain/mountain-cams",
     hours: 4,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -74,7 +74,7 @@ app.locals.resorts = [
     live_Cam:
       "https://www.aspensnowmass.com/four-mountains/aspen-highlands/mountain-cams",
     hours: 4,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -138,7 +138,7 @@ app.locals.resorts = [
     live_Cam:
       "https://www.aspensnowmass.com/four-mountains/buttermilk/mountain-cams",
     hours: 4,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -158,7 +158,7 @@ app.locals.resorts = [
       "https://www.coppercolorado.com/plan-your-trip/lift-tickets/tickets?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH7afRTTvYXlK2LSm7ThuYxA0PSClRALdS8ZJ_4QsG8_WDU4hjIYBTgaAno7EALw_wcB&gclsrc=aw.ds",
     live_Cam: "https://www.coppercolorado.com/the-mountain/webcams/mountain",
     hours: 2,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -220,7 +220,7 @@ app.locals.resorts = [
       "https://www.eldora.com/plan-your-trip/tickets-passes/lift-tickets-passes/alpine-lift-tickets",
     live_Cam: "https://www.eldora.com/the-mountain/webcams/snow-stake-cam",
     hours: 1,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -488,7 +488,7 @@ app.locals.resorts = [
       "https://shop.aspensnowmass.com/s/all-lift-tickets/c/lift-tickets-3",
     live_Cam: "https://www.aspensnowmass.com/four-mountains/mountain-cams",
     hours: 4,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -509,7 +509,7 @@ app.locals.resorts = [
       "https://activities.steamboat.com/Ecomm/Shop/Calendar/5371193/en-US/?productcategoryid=117&startmonth=12&startYear=2022&agecategory=8&days=1",
     live_Cam: "https://www.steamboat.com/the-mountain/live-cams",
     hours: 4,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
@@ -612,7 +612,7 @@ app.locals.resorts = [
       "https://www.winterparkresort.com/plan-your-trip/deals-and-packages/flex-lift-tickets#filters=start-date:2022-11-9",
     live_Cam: "https://www.winterparkresort.com/the-mountain/mountain-cams",
     hours: 2,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {

@@ -29,7 +29,7 @@ app.locals.resorts = [
       "https://store.arapahoebasin.com/s/lift-tickets/c/full-day-lift-tickets",
     live_Cam: "https://www.arapahoebasin.com/the-mountain/webcams/",
     hours: 1,
-    pass: "https://www.ikonpass.com/static/media/ikon-pass-logo.2beb7782.png",
+    pass: "https://cdn.sanity.io/images/tk10onam/production/bb05dd54ed41be67ffcae0dd9f5df166976c2e36-1473x679.png",
     type: "ikon",
   },
   {
